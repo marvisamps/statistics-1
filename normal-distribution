@@ -1,2 +1,6 @@
 list <- c(1,313,23,345,34,12,121,21,21,21)
 shapiro.test(list)
+
+How to discover if the distribution is normal or not using shapiro.test()
+If p-value < 0.05, its not normal
+Se p-value is near 1, its normal
