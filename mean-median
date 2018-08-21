@@ -1,0 +1,6 @@
+numbers <- c(1,2,3,4,5)
+mean(numbers)
+median(numbers)
+list <- c(2,3,7,1,8,3,56,78,10)
+mean(list)
+median(list)
