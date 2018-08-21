@@ -1,0 +1,6 @@
+list <- c(12,13,124,123,10,9,9,9)
+Mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+Mode(list)
