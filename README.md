@@ -1,2 +1,2 @@
-# statistics-1
-Simple repo for statistics study purposes
+# Statistics Basic Study
+Simple repo for study purposes
