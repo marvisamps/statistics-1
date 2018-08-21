@@ -1,0 +1,4 @@
+R
+number <- 10*20
+classes <- c(2,4,4,4,8,8,8,9,9,10)
+hist(classes)
